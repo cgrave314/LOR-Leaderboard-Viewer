@@ -1,0 +1,14 @@
+C:\Users\ColeS\source\repos\LORLeaderboardViewer\LORLeaderboardViewer\bin\Debug\LORLeaderboardViewer.exe.config
+C:\Users\ColeS\source\repos\LORLeaderboardViewer\LORLeaderboardViewer\bin\Debug\LORLeaderboardViewer.exe
+C:\Users\ColeS\source\repos\LORLeaderboardViewer\LORLeaderboardViewer\bin\Debug\LORLeaderboardViewer.pdb
+C:\Users\ColeS\source\repos\LORLeaderboardViewer\LORLeaderboardViewer\bin\Debug\Camille.dll
+C:\Users\ColeS\source\repos\LORLeaderboardViewer\LORLeaderboardViewer\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ColeS\source\repos\LORLeaderboardViewer\LORLeaderboardViewer\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ColeS\source\repos\LORLeaderboardViewer\LORLeaderboardViewer\obj\Debug\LORLeaderboardViewer.csprojAssemblyReference.cache
+C:\Users\ColeS\source\repos\LORLeaderboardViewer\LORLeaderboardViewer\obj\Debug\LORLeaderboardViewer.MainForm.resources
+C:\Users\ColeS\source\repos\LORLeaderboardViewer\LORLeaderboardViewer\obj\Debug\LORLeaderboardViewer.Properties.Resources.resources
+C:\Users\ColeS\source\repos\LORLeaderboardViewer\LORLeaderboardViewer\obj\Debug\LORLeaderboardViewer.csproj.GenerateResource.cache
+C:\Users\ColeS\source\repos\LORLeaderboardViewer\LORLeaderboardViewer\obj\Debug\LORLeaderboardViewer.csproj.CopyComplete
+C:\Users\ColeS\source\repos\LORLeaderboardViewer\LORLeaderboardViewer\obj\Debug\LORLeaderboardViewer.exe
+C:\Users\ColeS\source\repos\LORLeaderboardViewer\LORLeaderboardViewer\obj\Debug\LORLeaderboardViewer.pdb
+C:\Users\ColeS\source\repos\LORLeaderboardViewer\LORLeaderboardViewer\obj\Debug\LORLeaderboardViewer.csproj.Fody.CopyLocal.cache
